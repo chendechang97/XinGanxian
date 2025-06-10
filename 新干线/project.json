@@ -1,0 +1,18 @@
+{
+  "app": {
+    "appDesc": "",
+    "appIcon": "/storage/emulated/0/Pictures/新干线/_res_/icon.png",
+    "appName": "新干线",
+    "appNotice": ""
+  },
+  "main": "/storage/emulated/0/Pictures/新干线/main.js",
+  "screen": {
+    "cutBottom": 0,
+    "cutTop": 0,
+    "density": 0,
+    "dpi": 0,
+    "height": 0,
+    "width": 0
+  }
+}
+
